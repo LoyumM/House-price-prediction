@@ -1,4 +1,4 @@
-# Regression-with-feauture-engineering
+# Regression-with-feature-engineering
 - House price prediction using the California Housing prices dataset
 - Tried Logistic Regression, Decision Trees, KNN and Random Forest Model
 - Feature engineered two extra features
